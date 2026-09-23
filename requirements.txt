@@ -1,0 +1,9 @@
+# Tested with Python 3.12
+matplotlib==3.11.2
+numpy==2.5.3
+pandas==3.0.6
+scikit-learn==1.9.1
+
+# Notebook execution
+ipykernel==7.3.0
+nbconvert==7.17.1

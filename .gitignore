@@ -1,0 +1,25 @@
+# Data and generated files (download the data with the Kaggle CLI, see README)
+data/
+submissions/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+kaggle.json
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.claude/
